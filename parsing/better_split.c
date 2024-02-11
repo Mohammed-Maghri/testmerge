@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../minishell.h"
+#in       clude "../minishell.h"
 
 int	ft_countlength(char *s)
 {
